@@ -15,5 +15,5 @@ Bem-vindo ao projeto Sangue do Bem! Este é um sistema desenvolvido em TypeScrip
    ```bash
    git clone https://github.com/seu-usuario/sangue-do-bem.git
 ## Autores
-- Melissa Macedo
+- MelissaMacedo
 - @devMarquinhos
